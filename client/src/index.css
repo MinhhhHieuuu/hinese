@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Global resets ─────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  background-color: #FDF3E4;
+  font-family: 'Inter', sans-serif;
+  color: #1A1A1A;
+  margin: 0;
+}
+
+/* CJK characters rendered with Noto Sans SC */
+.char-cjk {
+  font-family: 'Noto Sans SC', serif;
+}
+
+/* Focus ring for keyboard navigation */
+:focus-visible {
+  outline: 2px solid #B9231F;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Smooth page transitions */
+.page-enter {
+  animation: fadeUp 0.45s ease both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+html { scroll-behavior: smooth; }

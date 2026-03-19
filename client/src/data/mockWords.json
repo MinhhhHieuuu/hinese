@@ -1,0 +1,82 @@
+[
+  {
+    "id": "da",
+    "char": "大",
+    "pinyin": "dà",
+    "meaning": "big / large / great",
+    "radicals": ["一", "人"],
+    "mnemonic": "大 is combined by 2 radicals: 一 and 人. It looks like a huge person opening their arms to embrace everything.",
+    "examples": [
+      { "zh": "这个操场很大", "pinyin": "Zhège cāochǎng hěn dà", "en": "This playground is very large." },
+      { "zh": "大家好", "pinyin": "Dàjiā hǎo", "en": "Hello everyone." }
+    ],
+    "strokes": 3,
+    "level": "HSK1",
+    "charImage": "/images/chars/da.png",
+    "mnemonicImage": "/images/mnemonics/da_person.png"
+  },
+  {
+    "id": "ren",
+    "char": "人",
+    "pinyin": "rén",
+    "meaning": "person / people",
+    "radicals": [],
+    "mnemonic": "人 looks like a person walking with two legs spread apart. It is a pictograph of the human silhouette.",
+    "examples": [
+      { "zh": "这个人很高", "pinyin": "Zhège rén hěn gāo", "en": "This person is very tall." },
+      { "zh": "人们都喜欢", "pinyin": "Rénmen dōu xǐhuān", "en": "Everyone likes it." }
+    ],
+    "strokes": 2,
+    "level": "HSK1",
+    "charImage": "/images/chars/ren.png",
+    "mnemonicImage": "/images/mnemonics/ren_walk.png"
+  },
+  {
+    "id": "shan",
+    "char": "山",
+    "pinyin": "shān",
+    "meaning": "mountain / hill",
+    "radicals": [],
+    "mnemonic": "山 is a pictograph of three mountain peaks. The middle peak is always the tallest.",
+    "examples": [
+      { "zh": "我喜欢爬山", "pinyin": "Wǒ xǐhuān páshān", "en": "I like mountain climbing." },
+      { "zh": "山很高", "pinyin": "Shān hěn gāo", "en": "The mountain is very high." }
+    ],
+    "strokes": 3,
+    "level": "HSK1",
+    "charImage": "/images/chars/shan.png",
+    "mnemonicImage": "/images/mnemonics/shan_peaks.png"
+  },
+  {
+    "id": "shui",
+    "char": "水",
+    "pinyin": "shuǐ",
+    "meaning": "water",
+    "radicals": [],
+    "mnemonic": "水 shows flowing water — the central stroke is the river, and the four short strokes are ripples or splashes.",
+    "examples": [
+      { "zh": "我要喝水", "pinyin": "Wǒ yào hē shuǐ", "en": "I want to drink water." },
+      { "zh": "水很冷", "pinyin": "Shuǐ hěn lěng", "en": "The water is very cold." }
+    ],
+    "strokes": 4,
+    "level": "HSK1",
+    "charImage": "/images/chars/shui.png",
+    "mnemonicImage": "/images/mnemonics/shui_river.png"
+  },
+  {
+    "id": "hao",
+    "char": "好",
+    "pinyin": "hǎo",
+    "meaning": "good / well / fine",
+    "radicals": ["女", "子"],
+    "mnemonic": "好 combines 女 (woman) and 子 (child). A mother with her child — what could be better than good?",
+    "examples": [
+      { "zh": "你好", "pinyin": "Nǐ hǎo", "en": "Hello / How are you?" },
+      { "zh": "今天天气很好", "pinyin": "Jīntiān tiānqì hěn hǎo", "en": "The weather is nice today." }
+    ],
+    "strokes": 6,
+    "level": "HSK1",
+    "charImage": "/images/chars/hao.png",
+    "mnemonicImage": "/images/mnemonics/hao_family.png"
+  }
+]

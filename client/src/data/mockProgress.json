@@ -1,0 +1,21 @@
+{
+  "year": 2026,
+  "streak": 30,
+  "wordsSearched": 500,
+  "mostSearched": ["大", "好", "人", "山", "水"],
+  "months": {
+    "jan": { "label": "Jan", "searches": 42, "active": true },
+    "feb": { "label": "Feb", "searches": 55, "active": true },
+    "mar": { "label": "Mar", "searches": 38, "active": true },
+    "apr": { "label": "Apr", "searches": 61, "active": true },
+    "may": { "label": "May", "searches": 49, "active": true },
+    "jun": { "label": "Jun", "searches": 70, "active": true },
+    "jul": { "label": "Jul", "searches": 33, "active": true },
+    "aug": { "label": "Aug", "searches": 58, "active": true },
+    "sep": { "label": "Sep", "searches": 44, "active": true },
+    "oct": { "label": "Oct", "searches": 7,  "active": true },
+    "nov": { "label": "Nov", "searches": 33,  "active": true },
+    "dec": { "label": "Dec", "searches": 1,  "active": true }
+  },
+  "sparkline": [5, 8, 4, 12, 9, 15, 7, 11, 13, 10, 14, 6, 17, 8, 12, 20, 15, 18, 9, 11, 14, 16, 12, 10, 15, 17, 19, 21, 18, 22]
+}
